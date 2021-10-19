@@ -7,6 +7,6 @@ int main()
     a = x * 2;
     h = a / 60;
     m = a % 60;
-    cout << h << " " << m << endl;
+    cout << h << " hours " << m << " minutes" << endl;
 }
 
