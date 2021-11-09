@@ -17,9 +17,9 @@ int main() {
     arctg = x;
     do 
     {
-      i = i + 1;
-      PreArctg = arctg;
-      arctg = arctg + ((pow(-1, i) * pow(x, 2 * i + 1)) / (2 * i + 1));
+        i = i + 1;
+        PreArctg = arctg;
+        arctg = arctg + ((pow(-1, i) * pow(x, 2 * i + 1)) / (2 * i + 1));
     } 
     while (abs(arctg - PreArctg) > ε);
     cout << arctg << endl;
