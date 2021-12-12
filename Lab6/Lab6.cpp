@@ -5,7 +5,7 @@ using namespace std;
 
 double function(double a, double b, double c)
 {
-    return (2 * a - b - sin(c)) / (5 + abs(c));
+    return (2 * a - b - sin(c)) / (5 + fabs(c));
 }
 
 int main()
