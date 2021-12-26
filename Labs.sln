@@ -27,6 +27,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab6Python", "Lab6Python\La
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab7", "Lab7\Lab7.vcxproj", "{C0771D28-202A-414F-B7A1-974A2D2BAF88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab8", "Lab8\Lab8.vcxproj", "{44ECA483-2C14-4618-A0A6-C1218085AEED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab9", "Lab9\Lab9.vcxproj", "{AC9526DB-3A80-43FA-8817-04435720FBA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +141,26 @@ Global
 		{C0771D28-202A-414F-B7A1-974A2D2BAF88}.Release|x64.Build.0 = Release|x64
 		{C0771D28-202A-414F-B7A1-974A2D2BAF88}.Release|x86.ActiveCfg = Release|Win32
 		{C0771D28-202A-414F-B7A1-974A2D2BAF88}.Release|x86.Build.0 = Release|Win32
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Debug|x64.ActiveCfg = Debug|x64
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Debug|x64.Build.0 = Debug|x64
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Debug|x86.ActiveCfg = Debug|Win32
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Debug|x86.Build.0 = Debug|Win32
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Release|Any CPU.ActiveCfg = Release|Win32
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Release|x64.ActiveCfg = Release|x64
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Release|x64.Build.0 = Release|x64
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Release|x86.ActiveCfg = Release|Win32
+		{44ECA483-2C14-4618-A0A6-C1218085AEED}.Release|x86.Build.0 = Release|Win32
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Debug|x64.ActiveCfg = Debug|x64
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Debug|x64.Build.0 = Debug|x64
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Debug|x86.Build.0 = Debug|Win32
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Release|Any CPU.ActiveCfg = Release|Win32
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Release|x64.ActiveCfg = Release|x64
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Release|x64.Build.0 = Release|x64
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Release|x86.ActiveCfg = Release|Win32
+		{AC9526DB-3A80-43FA-8817-04435720FBA0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
